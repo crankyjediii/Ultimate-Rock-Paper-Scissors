@@ -1,0 +1,177 @@
+body {
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.button {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+
+.rock {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+.rock:hover {
+    background-color: #505458;
+    color: white;
+    cursor: pointer;
+}
+.fire {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+.fire:hover {
+    background-color: #e0402b;
+    color: white;
+    cursor: pointer;
+}
+.scissors {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+.scissors:hover {
+    background-color: #8f94ac;
+    color: white;
+    cursor: pointer;
+}
+.human {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+.human:hover {
+    background-color: #d4bc97;
+    color: white;
+    cursor: pointer;
+}
+.sponge {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+.sponge:hover {
+    background-color: #f1cd2c;
+    color: white;
+    cursor: pointer;
+}
+.paper {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+.paper:hover {
+    background-color: #000000;
+    color: white;
+    cursor: pointer;
+}
+.air {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+.air:hover {
+    background-color: #ffffff00;
+    color: white;
+    cursor: pointer;
+}
+.water {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+.water:hover {
+    background-color: #085fff;
+    color: white;
+    cursor: pointer;
+}
+.gun {
+    color: rgb(49, 49, 49);
+    background-color: #ffffff;
+    font-size: 35px;
+    font-family: 'Lucida Console';
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 32px;
+    transition-duration: 0.4s;
+}
+.gun:hover {
+    background-color: #2c2c2c;
+    color: white;
+    cursor: pointer;
+}
+.center {
+    text-align: center;
+}
+
+.button:hover {
+
+    cursor: pointer;
+  }
+
+h1 {
+    color: whitesmoke;
+    font-family: 'Lucida Console';
+    font-size: 100px;
+    text-align: center;
+    margin-top: 125px;
+}
+h2 {
+    color: whitesmoke;
+    font-family: 'Lucida Console';
+    font-size: 60px;
+    text-align: center;
+    margin-top: 100px;
+}
